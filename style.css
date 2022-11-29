@@ -1,0 +1,17 @@
+#parrafo1{
+    color: mediumslateblue;
+    background-color: lightcyan;
+}
+#parrafo2{
+    color: darkcyan;
+}
+#encabezado-4{
+    color: crimson;
+}
+.color-red{
+    color: indigo;
+}
+body{
+    background-image: url(https://www.nicaraguadisena.com/wp-content/uploads/2021/06/desktop_07dde968-34f2-4f8f-b2a2-87d6f65e8fe3.jpg);
+    background-size: cover;
+}
